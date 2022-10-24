@@ -6,9 +6,9 @@ public class C06_IfElseStatements {
 
     public static void main(String[] args) {
 
-            /*
-            Kullaniciya yesini sorun, eger yas 65'ten kucukse "emekli olamazsin, calismalisin"
-            , 65'e esit veya buyukse "emekli olabilirsin" yazdırın
+        /*
+            Kullaniciya yesini sorun, eger yas 65'ten kucukse "emekli olamazsin, calismalisin",
+            65'e esit veya buyukse "emekli olabilirsin" yazdırın
        */
 
         Scanner scan=new Scanner(System.in);
