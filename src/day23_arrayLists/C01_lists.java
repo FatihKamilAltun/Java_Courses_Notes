@@ -10,6 +10,7 @@ public class C01_lists {
         sayilar1.add(5);
         sayilar1.add(3);
         sayilar1.add(2);
+        sayilar1.add(12);
 
 
         System.out.println("Listenin boyutu : " +sayilar1.size());
